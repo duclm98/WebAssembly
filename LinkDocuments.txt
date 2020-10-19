@@ -1,0 +1,5 @@
+https://www.programiz.com/c-programming/c-data-types
+https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running
+https://wasdk.github.io/WasmFiddle/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/exports
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/imports
