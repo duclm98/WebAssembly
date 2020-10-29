@@ -1,0 +1,7 @@
+emcc lib\demo.c -s WASM=1 -o public\demo.js
+emcc lib\demo.c -s WASM=1 -o public\demo.html
+emcc lib\demo.c -s WASM=1 -o public\demo.wasm
+emcc lib\demo.c -s WASM=1 --post-js public\ready.js -o public\demo.js
+emcc lib\demo.c -s WASM=1 -s EXPORTED_FUNCTIONS="['_getNum','_main','_getDoubleNum']" -o public\demo.js
+ccall('getDoubleNum', 'number', ['number'], [12])
+emcc lib\imports.c -s WASM=1 -o public\imports.js

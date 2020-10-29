@@ -1,5 +1,23 @@
+Section 1:
 https://www.programiz.com/c-programming/c-data-types
 https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running
 https://wasdk.github.io/WasmFiddle/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/exports
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/imports
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array
+
+Section 2:
+https://emscripten.org/
+https://emscripten.org/docs/getting_started/downloads.html
+https://emscripten.org/docs/building_from_source/toolchain_what_is_needed.html
+https://emscripten.org/docs/getting_started/downloads.html#platform-notes-installation-instructions-sdk
+https://git-scm.com/
+https://www.python.org/downloads/
+https://cmake.org/download/
+https://emscripten.org/docs/optimizing/Optimizing-Code.html
+https://emscripten.org/docs/api_reference/preamble.js.html
+https://emscripten.org/docs/api_reference/emscripten.h.html
+https://emscripten.org/docs/api_reference/preamble.js.html#conversion-functions-strings-pointers-and-arrays
+https://emscripten.org/docs/api_reference/module.html
+https://emscripten.org/docs/api_reference/emscripten.h.html#logging-utilities
+https://emscripten.org/docs/compiling/Running-html-files-with-emrun.html
