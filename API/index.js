@@ -45,9 +45,9 @@ function checkPrimes(num) {
 
 app.get('/test-js', (req, res) => {
     const n = req.query.n;
-    const data = checkPrimes(n);
+    const result = checkPrimes(n);
     return res.send({
-        data
+        result
     })
 })
 
